@@ -1,0 +1,175 @@
+{
+  "schema_version": 1,
+  "slug": "tuna-pasta",
+  "title": "Tuna Pasta",
+  "subtitle": null,
+  "categories": [
+    "Seafood",
+    "Pasta"
+  ],
+  "tags": [],
+  "source_url": "https://fiberwoman.com/recipes/tuna-pasta.html",
+  "attribution": [
+    {
+      "type": "text",
+      "text": "My own invention, combining fried onions, tuna, parmesan, and linguini. Lately I have been adding some Thai ingredients. You can omit the red curry paste and lime juice."
+    }
+  ],
+  "servings": null,
+  "blocks": [
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "1 large spanish onion"
+        },
+        {
+          "type": "instruction",
+          "text": ", finely chopped"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "3 tablespoons oil"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "fry the onion on medium high until it turns light brown"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "1 to 3 green or red Bell peppers"
+        },
+        {
+          "type": "instruction",
+          "text": ", seeded and finely chopped"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "fry for five minutes or so"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "1 teaspoon Thai red curry paste"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "1 tablespoon dried basil"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "mix in the red curry paste and basil and fry a little"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "1 to 3 teaspoons lime juice"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "1 teaspoon salt"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "3 cans flaked tuna"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "1 cup grated parmesan cheese"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "combine the rest of the ingredients, and fry until the parmesan melts"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "1 package linguini"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "cook and drain the pasta, then mix with the tuna"
+        }
+      ]
+    }
+  ],
+  "notes": [],
+  "variations": [],
+  "photos": [],
+  "metadata": {
+    "imported": "2026-11-01",
+    "revised": null,
+    "source_file": "archive/fiberwoman/tuna-pasta.html",
+    "source_sha256": "048a5aef13b16462989d26860bf92fdf04eeedf8e666fe6e508a231687c4130f",
+    "original_heading": "Tuna Pasta",
+    "origin": "live website"
+  }
+}

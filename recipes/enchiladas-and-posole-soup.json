@@ -1,0 +1,611 @@
+{
+  "schema_version": 1,
+  "slug": "enchiladas-and-posole-soup",
+  "title": "Enchiladas and Posole Soup",
+  "subtitle": null,
+  "categories": [
+    "Soups",
+    "Meat",
+    "Mexican"
+  ],
+  "tags": [],
+  "source_url": "https://fiberwoman.com/recipes/enchiladas-and-posole-soup.html",
+  "attribution": [],
+  "servings": null,
+  "blocks": [
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "2 large slices of a sweet onion"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "1 clove of garlic"
+        },
+        {
+          "type": "instruction",
+          "text": ", peeled"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "15 whole black peppercorns"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "two teaspoons salt"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "2 chicken breasts including the skin and bone, about 3 pounds"
+        },
+        {
+          "type": "instruction",
+          "text": ", rinsed"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "add these ingredients to a large pot, then add water to cover"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "bring to a boil, then reduce to a simmer, and cover"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "simmer for 90 minutes, then turn off the heat, and let it cool"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "remove the chicken from the broth"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "strain the broth, discard the solids, and reserve the broth for the soup"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "(you can refrigerate or freeze the chicken and the broth at this point)"
+        }
+      ]
+    },
+    {
+      "type": "break"
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "Prepare the roasted peppers"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "preheat the oven to 400 or 425"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "a large red bell pepper and a large green bell pepper and/or 6 poblano peppers"
+        },
+        {
+          "type": "instruction",
+          "text": ", rinsed"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "put the peppers on a tray and roast for 10 minutes"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "rotate the peppers and roast for 5 more minutes"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "and repeat until the peppers are getting dark and the skin is peeling"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "then remove the seeds, peel off the skin, and dice."
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "Instead of roasting the peppers yourself, you can use"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "one 16 oz jar of roasted, peeled peppers"
+        },
+        {
+          "type": "instruction",
+          "text": ", chopped"
+        }
+      ]
+    },
+    {
+      "type": "break"
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "one large sweet onion"
+        },
+        {
+          "type": "instruction",
+          "text": ", peeled and chopped"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "sautee the onion in"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "one tablespoon of oil"
+        },
+        {
+          "type": "instruction",
+          "text": "until it is very soft, but not yet brown"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "add the onions to the peppers"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "(you can refrigerate the peppers and onions at this point)"
+        }
+      ]
+    },
+    {
+      "type": "break"
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "one or two cups of coarsely grated monterey jack cheese"
+        }
+      ]
+    },
+    {
+      "type": "break"
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "remove the skin and bone from the chicken, and tear it into bite sized shreads"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "reserve some of the chicken (between 1/2 and 1/3 of the total) for the soup."
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "reserve some of the peppers and onions for the soup."
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "mix everything else together with the cheese."
+        }
+      ]
+    },
+    {
+      "type": "break"
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "one package white corn tortillas"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "get a small pan, wide enough for one tortilla, but not much wider. Add"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "1/8 inch oil"
+        },
+        {
+          "type": "instruction",
+          "text": ", heat very hot."
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "fry each tortilla for 5 seconds on one side, then 3 seconds on the other."
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "we will use about 12 tortillas for the enchiladas,"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "if you make more, the rest will be chopped and will go in the soup."
+        }
+      ]
+    },
+    {
+      "type": "break"
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "one 28 oz can of red enchilada sauce"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "take a small part of the sauce,"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "and put it in the bottom of two glass baking pans,"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "and spread it around."
+        }
+      ]
+    },
+    {
+      "type": "break"
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "Take a tortilla, fill it with the chicken, peppers, and cheese,"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "and roll it up and put it in the pan. Repeat until the pans are full."
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "pour the rest of the enchilada sauce over top of the enchiladas."
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "any of the chicken mixture that is left over will go in the soup."
+        }
+      ]
+    },
+    {
+      "type": "break"
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "If you refrigerated the broth, you can (try to) remove the fat on top."
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "add the remaining chicken, onions, peppers, then take"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "One can posole"
+        },
+        {
+          "type": "instruction",
+          "text": ", pour the contents into a bowl, and stir it to separate, and add it to the soup"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "take any fried tortillas that were not used, and chop them into shreds, and add them to the soup"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "Add 2 to 4 tablespoons of"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "Chile Pasilla de Oaxaca Salsa"
+        },
+        {
+          "type": "instruction",
+          "text": ", sold by \"Rosa Mexicano kitchen\""
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "or add a little chipotle powder and a little of some other salsa."
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "Bring the soup to a boil, and reduce to a simmer."
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "Taste the soup, and add a little salt, if it needs it."
+        }
+      ]
+    },
+    {
+      "type": "break"
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "Preheat the oven to 350, then bake the enchiladas for 15 to 20 minutes."
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "remove the enchiladas from the oven, and cover the pan with foil"
+        }
+      ]
+    },
+    {
+      "type": "break"
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "serve the soup, along with"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "finely shredded cabbage"
+        },
+        {
+          "type": "instruction",
+          "text": "for garnish"
+        }
+      ]
+    }
+  ],
+  "notes": [],
+  "variations": [],
+  "photos": [],
+  "metadata": {
+    "imported": "2026-11-01",
+    "revised": null,
+    "source_file": "archive/fiberwoman/enchiladas-and-posole-soup.html",
+    "source_sha256": "f04434f961321e19ee6c848e0224d71c8274a6e94665019dfdce20bd1b1d3bd9",
+    "original_heading": "Enchiladas and Posole Soup",
+    "origin": "live website"
+  }
+}

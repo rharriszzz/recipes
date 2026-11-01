@@ -1,0 +1,228 @@
+{
+  "schema_version": 1,
+  "slug": "pot-pie",
+  "title": "Pot Pie",
+  "subtitle": null,
+  "categories": [
+    "Soups",
+    "Meat"
+  ],
+  "tags": [],
+  "source_url": "https://fiberwoman.com/recipes/pot-pie.html",
+  "attribution": [
+    {
+      "type": "text",
+      "text": "This is from my grandmother, Edna Meyer."
+    }
+  ],
+  "servings": null,
+  "blocks": [
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "1 cup flour"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "1 egg"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "1 tablespoon water"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "mix the dough, cover, and let rest more than 15 minutes"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "roll very thin, and cut in 2 inch squares"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "1 chicken"
+        },
+        {
+          "type": "instruction",
+          "text": ", cut up"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "3 quarts water"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "boil for 1 hour, then remove the chicken from the broth"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "let it cool, bone it, and put the meat back in the broth"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "2 teaspoons salt"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "1/2 teaspoon pepper"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "about 1/4 teaspoon saffron"
+        },
+        {
+          "type": "instruction",
+          "text": ", add enough to turn the broth yellow, but not bright yellow"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "1 tablespoon poultry seasoning"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "1 teaspoon dried celery leaves"
+        },
+        {
+          "type": "instruction",
+          "text": ", pulverized"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "1 whole onion"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "add the seasonings"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "7 potatoes"
+        },
+        {
+          "type": "instruction",
+          "text": ", peeled and sliced very thin"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "add the potatoes to the broth, and boil for 15 minutes"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "add the dough squares to the broth, a few at a time"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "boil for 10 or 15 more minutes"
+        }
+      ]
+    }
+  ],
+  "notes": [],
+  "variations": [],
+  "photos": [],
+  "metadata": {
+    "imported": "2026-11-01",
+    "revised": null,
+    "source_file": "archive/fiberwoman/pot-pie.html",
+    "source_sha256": "8ea36190cef9c47a5644b73218c5832556174320d43025ded1931e3245322853",
+    "original_heading": "Pot Pie",
+    "origin": "live website"
+  }
+}

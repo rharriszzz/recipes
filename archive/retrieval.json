@@ -1,0 +1,146 @@
+{
+  "retrieved": "2026-11-01",
+  "root": "https://fiberwoman.com/recipes/",
+  "resources": [
+    {
+      "url": "https://fiberwoman.com/recipes/",
+      "archive": "archive/fiberwoman/index.html",
+      "status": 200,
+      "sha256": "cfdebd3392ce2569b05bfe93e6cc4a8fc9ebc951dce33087218c4f6921893a5c",
+      "links": []
+    },
+    {
+      "url": "https://fiberwoman.com/recipes/recipes.html",
+      "archive": "archive/fiberwoman/recipes.html",
+      "status": 200,
+      "sha256": "e081415dd7606124db136ab606fc97140ef2a5912056bf5a69f569a42a45ab46",
+      "links": [
+        "recipes.css",
+        "cauliflower-peas-and-potatoes-in-sauce.html",
+        "chicken-with-cabbage-and-peanuts.html",
+        "sausage-squash-and-posole-soup.html",
+        "tuna-egg-and-potato-salad.html",
+        "enchiladas-and-posole-soup.html",
+        "potatoes-in-green-sauce.html",
+        "chicken-corn-chowder.html",
+        "red-lentil-soup.html",
+        "tuna-pasta.html",
+        "pot-pie.html",
+        "waffles.html"
+      ]
+    },
+    {
+      "url": "https://fiberwoman.com/recipes/recipes.css",
+      "archive": "archive/fiberwoman/recipes.css",
+      "status": 200,
+      "sha256": "5df0a1c710c585a95280858a7bada3ba60871a7c7ccc48a5c8c7c0f16a1470d2"
+    },
+    {
+      "url": "https://fiberwoman.com/recipes/cauliflower-peas-and-potatoes-in-sauce.html",
+      "archive": "archive/fiberwoman/cauliflower-peas-and-potatoes-in-sauce.html",
+      "status": 200,
+      "sha256": "7d488046a8c6f09598ca5964c8ddccb4a046b7b06c081bedfec4003ea3842b10",
+      "links": [
+        "recipes.css",
+        "recipes.html"
+      ]
+    },
+    {
+      "url": "https://fiberwoman.com/recipes/chicken-with-cabbage-and-peanuts.html",
+      "archive": "archive/fiberwoman/chicken-with-cabbage-and-peanuts.html",
+      "status": 200,
+      "sha256": "5aae19ffd389d74fb27f4c9c72055f6364024cee09fc6194b22e572431a24bb1",
+      "links": [
+        "recipes.css",
+        "recipes.html"
+      ]
+    },
+    {
+      "url": "https://fiberwoman.com/recipes/sausage-squash-and-posole-soup.html",
+      "archive": "archive/fiberwoman/sausage-squash-and-posole-soup.html",
+      "status": 200,
+      "sha256": "e6ec0b6fd813d6ba3d852096709046e46ac43b8b3d82d523a20e625e006b2658",
+      "links": [
+        "recipes.css",
+        "recipes.html",
+        "http://www.emerils.com/recipedb/recipepull.php?id=3605"
+      ]
+    },
+    {
+      "url": "https://fiberwoman.com/recipes/tuna-egg-and-potato-salad.html",
+      "archive": "archive/fiberwoman/tuna-egg-and-potato-salad.html",
+      "status": 200,
+      "sha256": "27565db6a2242e56360ccdd194adeeba80ee86324c10ab71684cec5c8217b6be",
+      "links": [
+        "recipes.css",
+        "recipes.html"
+      ]
+    },
+    {
+      "url": "https://fiberwoman.com/recipes/enchiladas-and-posole-soup.html",
+      "archive": "archive/fiberwoman/enchiladas-and-posole-soup.html",
+      "status": 200,
+      "sha256": "f04434f961321e19ee6c848e0224d71c8274a6e94665019dfdce20bd1b1d3bd9",
+      "links": [
+        "recipes.css",
+        "recipes.html"
+      ]
+    },
+    {
+      "url": "https://fiberwoman.com/recipes/potatoes-in-green-sauce.html",
+      "archive": "archive/fiberwoman/potatoes-in-green-sauce.html",
+      "status": 200,
+      "sha256": "84e18318e262341d1d718ba8bca6de4d6ba6d19af3974f6d9f834d61a19716e8",
+      "links": [
+        "recipes.css",
+        "recipes.html"
+      ]
+    },
+    {
+      "url": "https://fiberwoman.com/recipes/chicken-corn-chowder.html",
+      "archive": "archive/fiberwoman/chicken-corn-chowder.html",
+      "status": 200,
+      "sha256": "40385c577b78aaae513613c61408ebce0a6de59352c4a86e33ffd7eb900713ea",
+      "links": [
+        "recipes.css",
+        "recipes.html"
+      ]
+    },
+    {
+      "url": "https://fiberwoman.com/recipes/red-lentil-soup.html",
+      "archive": "archive/fiberwoman/red-lentil-soup.html",
+      "status": 200,
+      "sha256": "b2108f66a28b472b0550764638fc41d37ea6be0d34ec308803c34d9a06bfa640",
+      "links": [
+        "recipes.css",
+        "recipes.html"
+      ]
+    },
+    {
+      "url": "https://fiberwoman.com/recipes/tuna-pasta.html",
+      "archive": "archive/fiberwoman/tuna-pasta.html",
+      "status": 200,
+      "sha256": "048a5aef13b16462989d26860bf92fdf04eeedf8e666fe6e508a231687c4130f",
+      "links": [
+        "recipes.css",
+        "recipes.html"
+      ]
+    },
+    {
+      "url": "https://fiberwoman.com/recipes/pot-pie.html",
+      "archive": "archive/fiberwoman/pot-pie.html",
+      "status": 200,
+      "sha256": "8ea36190cef9c47a5644b73218c5832556174320d43025ded1931e3245322853",
+      "links": [
+        "recipes.css",
+        "recipes.html"
+      ]
+    },
+    {
+      "url": "https://fiberwoman.com/recipes/waffles.html",
+      "archive": "archive/fiberwoman/waffles.html",
+      "status": 404,
+      "error": "HTTP 404"
+    }
+  ]
+}

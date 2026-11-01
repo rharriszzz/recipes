@@ -1,0 +1,124 @@
+{
+  "schema_version": 1,
+  "slug": "musaengchae",
+  "title": "Musaengchae (Daikon Radish Salad)",
+  "subtitle": null,
+  "categories": [
+    "Korean",
+    "Vegetables"
+  ],
+  "tags": [],
+  "source_url": "https://chatgpt.com/library/file/libfile_57991992614481918a550c99cfa2441e",
+  "attribution": [
+    {
+      "type": "text",
+      "text": "Adapted from Seonkyoung Longest's Dolsot Bibimbap and My Korean Kitchen's Dolsot Bibimbap and Daikon Radish Salad."
+    }
+  ],
+  "servings": null,
+  "blocks": [
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "8 oz daikon radish, peeled and cut into thin matchsticks"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "Put the radish in a mixing bowl."
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "1 tsp gochugaru"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "1 tsp Korean fish sauce"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "1 tsp sugar"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "1/2 tsp minced garlic"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "1/4 tsp fine salt"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "Add to the radish and mix well."
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "2 tsp finely chopped green onion (optional)"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "Mix in. Refrigerate at least 30 minutes. This makes more than you need for two bibimbap bowls; keep the extra as banchan."
+        }
+      ]
+    }
+  ],
+  "notes": [],
+  "variations": [],
+  "photos": [],
+  "metadata": {
+    "imported": "2026-11-01",
+    "revised": null,
+    "source_file": "archive/chatgpt/dolsot_bibimbap_2_servings.html",
+    "source_sha256": "46f5a86f061dc986d4834bb2b0a7d4a23398a627b5a951af983ac095c125b40b",
+    "origin": "ChatGPT source artifact",
+    "source_filename": "dolsot_bibimbap_2_servings.html",
+    "source_section": "Daikon Radish Salad (Musaengchae)",
+    "version": "Exact side dish from the bibimbap source; not an independently revised recipe"
+  }
+}

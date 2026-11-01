@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Cauliflower, Peas, and Potatoes in Red Sauce",
+    "source_url": "https://fiberwoman.com/recipes/cauliflower-peas-and-potatoes-in-sauce.html",
+    "source_file": "archive/fiberwoman/cauliflower-peas-and-potatoes-in-sauce.html",
+    "recipe_file": "recipes/cauliflower-peas-and-potatoes-in-sauce.json",
+    "published_path": "/recipes/cauliflower-peas-and-potatoes-in-sauce/",
+    "origin": "live website"
+  },
+  {
+    "title": "Chicken Corn Chowder",
+    "source_url": "https://fiberwoman.com/recipes/chicken-corn-chowder.html",
+    "source_file": "archive/fiberwoman/chicken-corn-chowder.html",
+    "recipe_file": "recipes/chicken-corn-chowder.json",
+    "published_path": "/recipes/chicken-corn-chowder/",
+    "origin": "live website"
+  },
+  {
+    "title": "Chicken with Cabbage and Peanuts",
+    "source_url": "https://fiberwoman.com/recipes/chicken-with-cabbage-and-peanuts.html",
+    "source_file": "archive/fiberwoman/chicken-with-cabbage-and-peanuts.html",
+    "recipe_file": "recipes/chicken-with-cabbage-and-peanuts.json",
+    "published_path": "/recipes/chicken-with-cabbage-and-peanuts/",
+    "origin": "live website"
+  },
+  {
+    "title": "Cod and Potato Chowder",
+    "source_url": "https://chatgpt.com/c/6ac2adea-17a0-83ea-a7f4-1102d70f26aa",
+    "source_file": "archive/chatgpt/cod-and-potato-chowder.txt",
+    "recipe_file": "recipes/cod-and-potato-chowder.json",
+    "published_path": "/recipes/cod-and-potato-chowder/",
+    "origin": "ChatGPT source artifact"
+  },
+  {
+    "title": "Dolsot Bibimbap for Two",
+    "source_url": "https://chatgpt.com/library/file/libfile_57991992614481918a550c99cfa2441e",
+    "source_file": "archive/chatgpt/dolsot_bibimbap_2_servings.html",
+    "recipe_file": "recipes/dolsot-bibimbap-for-two.json",
+    "published_path": "/recipes/dolsot-bibimbap-for-two/",
+    "origin": "ChatGPT source artifact"
+  },
+  {
+    "title": "Enchiladas and Posole Soup",
+    "source_url": "https://fiberwoman.com/recipes/enchiladas-and-posole-soup.html",
+    "source_file": "archive/fiberwoman/enchiladas-and-posole-soup.html",
+    "recipe_file": "recipes/enchiladas-and-posole-soup.json",
+    "published_path": "/recipes/enchiladas-and-posole-soup/",
+    "origin": "live website"
+  },
+  {
+    "title": "Fish Chowder",
+    "source_url": "https://chatgpt.com/library/file/libfile_ef048449ed208191acbffe574b1c591c",
+    "source_file": "archive/chatgpt/fish_chowder_final.pdf",
+    "recipe_file": "recipes/fish-chowder.json",
+    "published_path": "/recipes/fish-chowder/",
+    "origin": "ChatGPT source artifact"
+  },
+  {
+    "title": "Musaengchae (Daikon Radish Salad)",
+    "source_url": "https://chatgpt.com/library/file/libfile_57991992614481918a550c99cfa2441e",
+    "source_file": "archive/chatgpt/dolsot_bibimbap_2_servings.html",
+    "recipe_file": "recipes/musaengchae.json",
+    "published_path": "/recipes/musaengchae/",
+    "origin": "ChatGPT source artifact"
+  },
+  {
+    "title": "Pot Pie",
+    "source_url": "https://fiberwoman.com/recipes/pot-pie.html",
+    "source_file": "archive/fiberwoman/pot-pie.html",
+    "recipe_file": "recipes/pot-pie.json",
+    "published_path": "/recipes/pot-pie/",
+    "origin": "live website"
+  },
+  {
+    "title": "Potatoes in Green Sauce",
+    "source_url": "https://fiberwoman.com/recipes/potatoes-in-green-sauce.html",
+    "source_file": "archive/fiberwoman/potatoes-in-green-sauce.html",
+    "recipe_file": "recipes/potatoes-in-green-sauce.json",
+    "published_path": "/recipes/potatoes-in-green-sauce/",
+    "origin": "live website"
+  },
+  {
+    "title": "Red Lentil Soup",
+    "source_url": "https://fiberwoman.com/recipes/red-lentil-soup.html",
+    "source_file": "archive/fiberwoman/red-lentil-soup.html",
+    "recipe_file": "recipes/red-lentil-soup.json",
+    "published_path": "/recipes/red-lentil-soup/",
+    "origin": "live website"
+  },
+  {
+    "title": "Sausage, Squash, and Posole Soup",
+    "source_url": "https://fiberwoman.com/recipes/sausage-squash-and-posole-soup.html",
+    "source_file": "archive/fiberwoman/sausage-squash-and-posole-soup.html",
+    "recipe_file": "recipes/sausage-squash-and-posole-soup.json",
+    "published_path": "/recipes/sausage-squash-and-posole-soup/",
+    "origin": "live website"
+  },
+  {
+    "title": "Smoked Salmon Potato Chowder",
+    "source_url": "https://chatgpt.com/library/file/libfile_523dbb94417c819185b239da816049fd",
+    "source_file": "archive/chatgpt/smoked_salmon_potato_chowder_final.pdf",
+    "recipe_file": "recipes/smoked-salmon-potato-chowder.json",
+    "published_path": "/recipes/smoked-salmon-potato-chowder/",
+    "origin": "ChatGPT source artifact"
+  },
+  {
+    "title": "Tuna, Egg, and Potato Salad",
+    "source_url": "https://fiberwoman.com/recipes/tuna-egg-and-potato-salad.html",
+    "source_file": "archive/fiberwoman/tuna-egg-and-potato-salad.html",
+    "recipe_file": "recipes/tuna-egg-and-potato-salad.json",
+    "published_path": "/recipes/tuna-egg-and-potato-salad/",
+    "origin": "live website"
+  },
+  {
+    "title": "Tuna Pasta",
+    "source_url": "https://fiberwoman.com/recipes/tuna-pasta.html",
+    "source_file": "archive/fiberwoman/tuna-pasta.html",
+    "recipe_file": "recipes/tuna-pasta.json",
+    "published_path": "/recipes/tuna-pasta/",
+    "origin": "live website"
+  },
+  {
+    "title": "Waffles",
+    "source_url": "https://fiberwoman.com/recipes/waffles.html",
+    "source_file": "archive/local/xo-web-recipes/waffles.html",
+    "recipe_file": "recipes/waffles.json",
+    "published_path": "/recipes/waffles/",
+    "origin": "local backup"
+  }
+]

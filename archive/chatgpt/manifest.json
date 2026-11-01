@@ -1,0 +1,52 @@
+[
+  {
+    "file": "archive/chatgpt/cod-and-potato-chowder.txt",
+    "sha256": "7621d04c5e7d673c55f00f172cb15358fbe6af853ae250fc74d5734fcb071729",
+    "retrieved": "2026-11-01"
+  },
+  {
+    "file": "archive/chatgpt/dolsot_bibimbap_2_servings.extracted.txt",
+    "sha256": "d9c38b6cd24e696a9849bf10e1a1f5dd2cad0798ca14d086433f0797a77bbfbb",
+    "retrieved": "2026-11-01"
+  },
+  {
+    "file": "archive/chatgpt/dolsot_bibimbap_2_servings.html",
+    "sha256": "46f5a86f061dc986d4834bb2b0a7d4a23398a627b5a951af983ac095c125b40b",
+    "retrieved": "2026-11-01"
+  },
+  {
+    "file": "archive/chatgpt/dolsot_bibimbap_2_servings.pdf",
+    "sha256": "ab1d46b37a2a34d1f7389d2dbb388781630fa91dad9462dc3a87d82e02e5b089",
+    "retrieved": "2026-11-01"
+  },
+  {
+    "file": "archive/chatgpt/fish_chowder_final.extracted.txt",
+    "sha256": "40afbbec55e36caa75a5362e71822ce510c7c4d758dfa0bd2622be8bb06c9a75",
+    "retrieved": "2026-11-01"
+  },
+  {
+    "file": "archive/chatgpt/fish_chowder_final.pdf",
+    "sha256": "f890b6e23bafeb6b4875de40990d795d5442a017936b69eb01cbfcf7c11bc2bc",
+    "retrieved": "2026-11-01"
+  },
+  {
+    "file": "archive/chatgpt/haddock_chowder_v3.extracted.txt",
+    "sha256": "f39bf6c47feeb53604dcf00c2cfb8f25258ba08e51c554001ca7740200e91478",
+    "retrieved": "2026-11-01"
+  },
+  {
+    "file": "archive/chatgpt/haddock_chowder_v3.pdf",
+    "sha256": "b11bad34d8212270d3d192c176855fd6db38b5362af2d281e114176d7f003c28",
+    "retrieved": "2026-11-01"
+  },
+  {
+    "file": "archive/chatgpt/smoked_salmon_potato_chowder_final.extracted.txt",
+    "sha256": "aec363c7b83a510d2f853f1b4fcf5c9eb601643532494d2739ebf322a07f1048",
+    "retrieved": "2026-11-01"
+  },
+  {
+    "file": "archive/chatgpt/smoked_salmon_potato_chowder_final.pdf",
+    "sha256": "c921e1efc32cd0ff8f59bd0c9db480b920c44ad2cc23f54052ee3aab13ead3c1",
+    "retrieved": "2026-11-01"
+  }
+]

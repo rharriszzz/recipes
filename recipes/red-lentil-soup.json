@@ -1,0 +1,192 @@
+{
+  "schema_version": 1,
+  "slug": "red-lentil-soup",
+  "title": "Red Lentil Soup",
+  "subtitle": null,
+  "categories": [
+    "Soups",
+    "Vegetables",
+    "Turkish"
+  ],
+  "tags": [
+    "lentils",
+    "kale"
+  ],
+  "source_url": "https://fiberwoman.com/recipes/red-lentil-soup.html",
+  "attribution": [
+    {
+      "type": "text",
+      "text": "From \"The Sultan's Kitchen\" by Ozcan Ozan. I skip the dried mint and chopped tomato, and add chopped kale."
+    }
+  ],
+  "servings": null,
+  "blocks": [
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "2 tablespoons olive oil"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "2 tablespoons butter"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "1 large spanish onion"
+        },
+        {
+          "type": "instruction",
+          "text": ", finely diced"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "2 garlic cloves"
+        },
+        {
+          "type": "instruction",
+          "text": ", minced"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "cook until softened but not brown"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "2 tablespoons paprika"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "2 tablespoons tomato paste"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "1/2 teaspoons red pepper"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "stir into the onion mixture"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "1 1/2 cups red lentils"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "1/4 cup long grain white rice"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "6 cups chicken stock or water"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "1/4 cup fine grain bulgur"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "1 bunch kale"
+        },
+        {
+          "type": "instruction",
+          "text": ", finely chopped"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "2 or 3 teaspoons salt"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "cover, bring to a boil, and simmer 40 minutes"
+        }
+      ]
+    }
+  ],
+  "notes": [],
+  "variations": [],
+  "photos": [],
+  "metadata": {
+    "imported": "2026-11-01",
+    "revised": null,
+    "source_file": "archive/fiberwoman/red-lentil-soup.html",
+    "source_sha256": "b2108f66a28b472b0550764638fc41d37ea6be0d34ec308803c34d9a06bfa640",
+    "original_heading": "Red Lentil Soup",
+    "origin": "live website"
+  }
+}

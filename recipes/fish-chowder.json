@@ -1,0 +1,286 @@
+{
+  "schema_version": 1,
+  "slug": "fish-chowder",
+  "title": "Fish Chowder",
+  "subtitle": null,
+  "categories": [
+    "Soups",
+    "Seafood"
+  ],
+  "tags": [],
+  "source_url": "https://chatgpt.com/library/file/libfile_ef048449ed208191acbffe574b1c591c",
+  "attribution": [
+    {
+      "type": "text",
+      "text": "Developed with ChatGPT. Haddock and bacon; prepare the base the day before."
+    }
+  ],
+  "servings": "2–3 servings",
+  "blocks": [
+    {
+      "type": "section",
+      "text": "Day 1 – Build the Base"
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "2–3 strips bacon, chopped"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "Cook bacon until crisp; remove pieces and leave the fat in the pot."
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "1 tbsp butter"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "1 cup onion, finely chopped"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "½ cup celery, finely chopped"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "Add butter, then onion and celery; cook 10–12 min until lightly browned."
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "1 tbsp flour"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "Sprinkle in flour; stir and cook 1 minute."
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "1¼ cups water"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "¾ tsp Better Than Bouillon vegetable base"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "1 bay leaf"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "¼–½ tsp dried thyme"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "Add water, bouillon, bay leaf, and thyme."
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "1½ cups potatoes, peeled and diced small"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "Add potatoes; simmer 12–15 min until just tender."
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "Simmer uncovered 3–5 min to concentrate the base."
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "Cool and refrigerate overnight."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "text": "Day 2 – Finish"
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "Reheat gently, 5–10 min."
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "0.6 lb haddock, cut in bite-size pieces"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "Add haddock; simmer 3–4 min."
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "¾ cup half-and-half"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "Add half-and-half; heat gently. Do not boil."
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "Return bacon; remove bay leaf."
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "Black pepper, to taste"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "Taste; add pepper and salt only if needed."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "text": "Notes"
+    },
+    {
+      "type": "note",
+      "text": "Bouillon plus bacon may provide enough salt already."
+    },
+    {
+      "type": "note",
+      "text": "Mash a few potatoes into the broth if you want it thicker."
+    },
+    {
+      "type": "note",
+      "text": "Optional at the end: a tiny splash of lemon juice or a pinch of paprika."
+    }
+  ],
+  "notes": [],
+  "variations": [],
+  "photos": [],
+  "metadata": {
+    "imported": "2026-11-01",
+    "revised": null,
+    "source_file": "archive/chatgpt/fish_chowder_final.pdf",
+    "source_sha256": "f890b6e23bafeb6b4875de40990d795d5442a017936b69eb01cbfcf7c11bc2bc",
+    "origin": "ChatGPT source artifact",
+    "source_filename": "fish_chowder_final.pdf",
+    "version": "Final renamed PDF. Haddock v3 has identical ingredients, instructions, and notes after its title; imported once.",
+    "ingredient_relayout": true,
+    "alternate_sources": [
+      "archive/chatgpt/haddock_chowder_v3.pdf"
+    ]
+  }
+}

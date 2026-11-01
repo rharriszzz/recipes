@@ -1,0 +1,257 @@
+{
+  "schema_version": 1,
+  "slug": "cod-and-potato-chowder",
+  "title": "Cod and Potato Chowder",
+  "subtitle": null,
+  "categories": [
+    "Soups",
+    "Seafood"
+  ],
+  "tags": [],
+  "source_url": "https://chatgpt.com/c/6ac2adea-17a0-83ea-a7f4-1102d70f26aa",
+  "attribution": [
+    {
+      "type": "text",
+      "text": "You already have an excellent base for a cod, potato, leek, and celery chowder. I’d keep the seasoning fairly restrained so the cod stays prominent. Thyme and a little smoked paprika will work especially well."
+    }
+  ],
+  "servings": "About 4 generous servings",
+  "blocks": [
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "6 stalks celery + 1 large Vidalia onion + 1 leek, chopped and softened in ½ stick (4 Tbsp) butter"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "Keep this in the pot over medium-low heat."
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "2 Tbsp flour"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "Sprinkle over the softened vegetables. Stir and cook for about 2 minutes. You aren't really browning or “toasting” it—you are cooking the flour in the butter and vegetables to make a light roux."
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "½ tsp dried thyme"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "¼ tsp smoked paprika"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "¼ tsp black pepper"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "1 bay leaf, if you have one"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "Stir into the vegetables for about 30 seconds. I would not use much more smoked paprika; cod is delicate."
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "1½ lb potatoes, peeled or unpeeled, cut into roughly ½-inch cubes"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "Stir them into the vegetables."
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "2 cups water or chicken broth"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "½ tsp Better Than Bouillon, optional if using water"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "Add enough liquid to nearly cover the potatoes. Bring to a gentle simmer, cover partially, and cook about 12–15 minutes, until the potatoes are tender."
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "At this point, taste the broth. If it seems thin, crush several potato pieces against the side of the pot and stir them back in. That gives you a more chowder-like texture without adding more flour."
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "1½ cups whole milk"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "1 cup half-and-half"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "Stir them in and heat gently until the chowder is steaming. Do not boil it vigorously once the dairy is in."
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "1 lb cod, cut into large 1- to 1½-inch pieces"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "Lay the cod pieces into the hot chowder. Stir very gently. Keep at a bare simmer for about 5–7 minutes, until the cod has turned opaque and flakes easily."
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "Salt, to taste"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "Another ¼ tsp thyme, if desired"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "Black pepper, to taste"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "Remove the bay leaf and taste before adding much salt, particularly if you used broth or Better Than Bouillon."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "text": "Notes"
+    },
+    {
+      "type": "note",
+      "text": "I would not add oregano, rosemary, or a lot of mixed seasoning to this one. Your leek/onion/celery mixture is already quite flavorful. Thyme + black pepper + just a background note of smoked paprika should give you a particularly good cod chowder. One change I might make depending on how much vegetable mixture you actually have: six celery stalks plus a large onion and leek is a substantial amount. If the pot looks very vegetable-heavy after adding 1½ lb potatoes, increase the liquid to about 2½ cups broth/water + 2 cups milk + 1 cup half-and-half. The recipe is forgiving."
+    }
+  ],
+  "notes": [],
+  "variations": [],
+  "photos": [],
+  "metadata": {
+    "imported": "2026-11-01",
+    "revised": null,
+    "source_file": "archive/chatgpt/cod-and-potato-chowder.txt",
+    "source_sha256": "7621d04c5e7d673c55f00f172cb15358fbe6af853ae250fc74d5734fcb071729",
+    "origin": "ChatGPT source artifact",
+    "version": "Only complete response in the recovered 2026-10-04 conversation; no explicit final approval visible",
+    "source_format": "Rendered conversation transcription"
+  }
+}

@@ -1,0 +1,308 @@
+{
+  "schema_version": 1,
+  "slug": "chicken-with-cabbage-and-peanuts",
+  "title": "Chicken with Cabbage and Peanuts",
+  "subtitle": null,
+  "categories": [
+    "Meat",
+    "Chinese"
+  ],
+  "tags": [
+    "cabbage",
+    "peanuts"
+  ],
+  "source_url": "https://fiberwoman.com/recipes/chicken-with-cabbage-and-peanuts.html",
+  "attribution": [
+    {
+      "type": "text",
+      "text": "From \"The Good Food of Szechuan\" by Robert A. Delfs. I usually double the recipe, to use the whole cabbage."
+    }
+  ],
+  "servings": null,
+  "blocks": [
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "1 whole chicken breast"
+        },
+        {
+          "type": "instruction",
+          "text": ", boned and cut into 1/4 or 1/2 inch pieces."
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "mix the marinade together:"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "1 tablespoon cornstarch"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "1 tablespoon rice wine or dry sherry"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "1 tablespoon soy sauce"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "1/2 teaspoon salt (omit if you used cooking wine)"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "mix the marinade with the chicken and set aside"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "1/4 to 1/2 head cabbage"
+        },
+        {
+          "type": "instruction",
+          "text": ", cut in pieces 1/2 by 1/2 inch"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "4 to 6 tablespoons oil"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "stir fry the cabbage on high heat until it starts to soften"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "1/2 teaspoon sesame oil"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "mix the sesame oil with the cabbage and set aside"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "2 to 4 tablespoons chopped green onion"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "1 to 2 tablespoons finely minced ginger"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "1 tablespoon finely minced garlic"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "1/2 cup roasted unsalted peanuts"
+        },
+        {
+          "type": "instruction",
+          "text": ", lightly crushed"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "1 tablespoon hot bean sauce"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "mix the above five ingredients and set aside"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "1 tablespoon cornstarch"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "2 tablespoons soy sauce"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "1 tablespoon rice wine or dry sherry"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "1 1/2 to 2 teaspoons salt (reduce or omit if salted peanuts or cooking wine is used)"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "1 teaspoon vinegar"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "1 teaspoon sugar"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "2 teaspoons sesame oil"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "mix the above seven ingredients and set aside"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "4 to 5 tablespoons oil"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "head the oil until very hot, then add the chicken and cook quickly. If the chicken will not fit in one layer with some space left over, cook it in batches. When the chicken is cooked, add the ginger and peanut mixture, and cook a minute or two. Then add the cornstarch and soy mixture, and cook a little more. Then mix with the cabbage."
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "Serve with rice."
+        }
+      ]
+    }
+  ],
+  "notes": [],
+  "variations": [],
+  "photos": [],
+  "metadata": {
+    "imported": "2026-11-01",
+    "revised": null,
+    "source_file": "archive/fiberwoman/chicken-with-cabbage-and-peanuts.html",
+    "source_sha256": "5aae19ffd389d74fb27f4c9c72055f6364024cee09fc6194b22e572431a24bb1",
+    "original_heading": "Chicken with Cabbage and Peanuts",
+    "origin": "live website"
+  }
+}

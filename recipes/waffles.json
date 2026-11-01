@@ -1,0 +1,186 @@
+{
+  "schema_version": 1,
+  "slug": "waffles",
+  "title": "Waffles",
+  "subtitle": null,
+  "categories": [
+    "Breakfast"
+  ],
+  "tags": [
+    "whole wheat"
+  ],
+  "source_url": "https://fiberwoman.com/recipes/waffles.html",
+  "attribution": [
+    {
+      "type": "text",
+      "text": "I started with a recipe from The Fannie Farmer Cookbook, and added some sugar and spice."
+    }
+  ],
+  "servings": null,
+  "blocks": [
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "4 eggs"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "2 cups milk"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "6 tablespoons oil"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "1 teaspoon vanilla"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "beat together"
+        }
+      ]
+    },
+    {
+      "type": "break"
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "use another bowl for the dry ingredients"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "2 tablespoons baking powder"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "4 tablespoons sugar"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "1 teaspoon salt"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "1 teaspoon cinnamon"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "mix together"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "3 cups whole wheat flour"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "mix in 1/2 cup of the flour, then mix in the of the flour"
+        }
+      ]
+    },
+    {
+      "type": "break"
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "then mix everything together"
+        }
+      ]
+    },
+    {
+      "type": "break"
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "heat the waffle iron. if it isn't teflon, brush it with oil or shortening."
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "pour in some of the batter, and bake."
+        }
+      ]
+    }
+  ],
+  "notes": [],
+  "variations": [],
+  "photos": [],
+  "metadata": {
+    "imported": "2026-11-01",
+    "revised": null,
+    "source_file": "archive/local/xo-web-recipes/waffles.html",
+    "source_sha256": "25d40889c13b3eaeaac78fc950ad9392a0b5fd40afceda01849285d677910d1b",
+    "original_heading": "Waffles",
+    "origin": "local backup"
+  }
+}

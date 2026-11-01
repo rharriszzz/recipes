@@ -1,0 +1,113 @@
+{
+  "recipes": 16,
+  "originals_accounted_for": 11,
+  "generated_html_pages": 35,
+  "recipes_checked": [
+    {
+      "slug": "cauliflower-peas-and-potatoes-in-sauce",
+      "ingredient_fragments": 13,
+      "instruction_fragments": 11,
+      "source": "archive/fiberwoman/cauliflower-peas-and-potatoes-in-sauce.html"
+    },
+    {
+      "slug": "chicken-corn-chowder",
+      "ingredient_fragments": 21,
+      "instruction_fragments": 19,
+      "source": "archive/fiberwoman/chicken-corn-chowder.html"
+    },
+    {
+      "slug": "chicken-with-cabbage-and-peanuts",
+      "ingredient_fragments": 21,
+      "instruction_fragments": 11,
+      "source": "archive/fiberwoman/chicken-with-cabbage-and-peanuts.html"
+    },
+    {
+      "slug": "cod-and-potato-chowder",
+      "ingredient_fragments": 15,
+      "instruction_fragments": 9,
+      "source": "archive/chatgpt/cod-and-potato-chowder.txt"
+    },
+    {
+      "slug": "dolsot-bibimbap-for-two",
+      "ingredient_fragments": 62,
+      "instruction_fragments": 23,
+      "source": "archive/chatgpt/dolsot_bibimbap_2_servings.html"
+    },
+    {
+      "slug": "enchiladas-and-posole-soup",
+      "ingredient_fragments": 16,
+      "instruction_fragments": 51,
+      "source": "archive/fiberwoman/enchiladas-and-posole-soup.html"
+    },
+    {
+      "slug": "fish-chowder",
+      "ingredient_fragments": 13,
+      "instruction_fragments": 12,
+      "source": "archive/chatgpt/fish_chowder_final.pdf"
+    },
+    {
+      "slug": "musaengchae",
+      "ingredient_fragments": 7,
+      "instruction_fragments": 3,
+      "source": "archive/chatgpt/dolsot_bibimbap_2_servings.html"
+    },
+    {
+      "slug": "pot-pie",
+      "ingredient_fragments": 12,
+      "instruction_fragments": 12,
+      "source": "archive/fiberwoman/pot-pie.html"
+    },
+    {
+      "slug": "potatoes-in-green-sauce",
+      "ingredient_fragments": 8,
+      "instruction_fragments": 8,
+      "source": "archive/fiberwoman/potatoes-in-green-sauce.html"
+    },
+    {
+      "slug": "red-lentil-soup",
+      "ingredient_fragments": 13,
+      "instruction_fragments": 6,
+      "source": "archive/fiberwoman/red-lentil-soup.html"
+    },
+    {
+      "slug": "sausage-squash-and-posole-soup",
+      "ingredient_fragments": 14,
+      "instruction_fragments": 11,
+      "source": "archive/fiberwoman/sausage-squash-and-posole-soup.html"
+    },
+    {
+      "slug": "smoked-salmon-potato-chowder",
+      "ingredient_fragments": 12,
+      "instruction_fragments": 7,
+      "source": "archive/chatgpt/smoked_salmon_potato_chowder_final.pdf"
+    },
+    {
+      "slug": "tuna-pasta",
+      "ingredient_fragments": 10,
+      "instruction_fragments": 7,
+      "source": "archive/fiberwoman/tuna-pasta.html"
+    },
+    {
+      "slug": "tuna-egg-and-potato-salad",
+      "ingredient_fragments": 10,
+      "instruction_fragments": 7,
+      "source": "archive/fiberwoman/tuna-egg-and-potato-salad.html"
+    },
+    {
+      "slug": "waffles",
+      "ingredient_fragments": 9,
+      "instruction_fragments": 7,
+      "source": "archive/local/xo-web-recipes/waffles.html"
+    }
+  ],
+  "checks": [
+    "archive SHA-256",
+    "metadata",
+    "original full text and order",
+    "rendered full text",
+    "bold ingredients and italic instructions",
+    "base path",
+    "internal links, assets, anchors",
+    "viewport and language"
+  ]
+}

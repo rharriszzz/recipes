@@ -1,0 +1,362 @@
+{
+  "schema_version": 1,
+  "slug": "chicken-corn-chowder",
+  "title": "Chicken Corn Chowder",
+  "subtitle": null,
+  "categories": [
+    "Soups",
+    "Meat"
+  ],
+  "tags": [],
+  "source_url": "https://fiberwoman.com/recipes/chicken-corn-chowder.html",
+  "attribution": [
+    {
+      "type": "text",
+      "text": "This is my recipe. Makes enough to fill a 3 1/2 qt. pot."
+    }
+  ],
+  "servings": "Makes enough to fill a 3 1/2 qt. pot.",
+  "blocks": [
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "1 chicken breast with skin and bone"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "4 bay leaves"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "water to cover"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "boil for 45 minutes, then reserve the broth"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "when the meat cools a bit, remove and discard the bones"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "then pull apart the meat into bite sized pieces"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "1/2 lb smoked bacon"
+        },
+        {
+          "type": "instruction",
+          "text": "slice the bacon into 1/4 in slivers"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "fry until most of the fat is rendered"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "reserve the bacon pieces, discard the fat (or save it for some other use)"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "4 to 6 potatoes (about 1 to 1 1/2 lbs)"
+        },
+        {
+          "type": "instruction",
+          "text": "cut into 1/4 to 1/2 in. cubes"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "4 Tbs salt"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "water to cover"
+        },
+        {
+          "type": "instruction",
+          "text": "boil 20 minutes"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "drain, discard the cooking water (or save it for some other use)"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "1 large spanish onion"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "3 celery stalks"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "4 Tbs butter"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "1 Tbs oil"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "fry on medium high until very soft but not browned"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "4 Tbs butter"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "2 Tbs oil"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "2/3 cup flour"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "make a medium roux: melt the butter and oil, add the flour, then add some extra oil"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "so that the mixture liquidifies, cook over medium heat for about 10 minutes"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "stirring frequently."
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "When it has darkened a little, remove from heat and mix in in the sauteed onions"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "10 oz sliced musrooms (optional)"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "2 Tbs butter"
+        },
+        {
+          "type": "instruction",
+          "text": "sautee the musrooms until they are soft"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "combine the chicken broth, roux and vegatables, chicken and bacon pieces, and the mushrooms"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "3/4 oz fresh tarragon, stems removed, chopped (or 1 tsp dried tarragon)"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "1/2 to 1 lb frozen corn (avoid the generic brands)"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "1/2 to 1 cup light cream"
+        },
+        {
+          "type": "instruction",
+          "text": "add half the cream, then add the rest if needed"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "about 3 Tbs salt"
+        },
+        {
+          "type": "instruction",
+          "text": "add half the salt, then add the rest if needed"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "1/2 to 2 tsp pepper"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "bring the soup to a boil, stir it occasionally, then let it simmer for 10 minutes"
+        }
+      ]
+    }
+  ],
+  "notes": [],
+  "variations": [],
+  "photos": [],
+  "metadata": {
+    "imported": "2026-11-01",
+    "revised": null,
+    "source_file": "archive/fiberwoman/chicken-corn-chowder.html",
+    "source_sha256": "40385c577b78aaae513613c61408ebce0a6de59352c4a86e33ffd7eb900713ea",
+    "original_heading": "Chicken Corn Chowder",
+    "origin": "live website"
+  }
+}

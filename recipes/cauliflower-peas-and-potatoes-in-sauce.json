@@ -1,0 +1,238 @@
+{
+  "schema_version": 1,
+  "slug": "cauliflower-peas-and-potatoes-in-sauce",
+  "title": "Cauliflower, Peas, and Potatoes in Red Sauce",
+  "subtitle": null,
+  "categories": [
+    "Vegetables",
+    "Indian"
+  ],
+  "tags": [],
+  "source_url": "https://fiberwoman.com/recipes/cauliflower-peas-and-potatoes-in-sauce.html",
+  "attribution": [
+    {
+      "type": "text",
+      "text": "From \"Classic Indian Cooking\", by Julie Sahni. This recipe uses 1/3 of the water that her recipe calls for, to make a thick stew rather than a thin soup."
+    }
+  ],
+  "servings": null,
+  "blocks": [
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "1 head cauliflower"
+        },
+        {
+          "type": "instruction",
+          "text": ", cut in 1 inch pieces, peel the stem and cut in 1/4 inch slices"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "2 or 4 potatoes"
+        },
+        {
+          "type": "instruction",
+          "text": ", peeled, cut in 1/2 inch slices, then cut the slices in half"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "reserve the vegetables"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "1/4 to 1/2 cup vegatable oil"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "heat over medium high heat in a pot"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "2 teaspoons cumin seeds"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "Add the cumin seeds, and fry until they darken"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "1 tablespoon ground cumin"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "2 tablespoons ground coriander"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "1 teaspoon turmeric"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "1/2 teaspoons red pepper"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "add the spices, and stir once"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "add the vegtables, and fry them until they begin to sear a little"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "3/4 cup canned tomato puree"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "fry for five minutes"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "1 cup water"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "4 teapoons salt"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "simmer for 20 minutes"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "10 ounce package of frozen peas"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "simmer for 5 minutes"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "3 tablespoons finely chopped fresh coriander leaves"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "stir in the coriander"
+        }
+      ]
+    }
+  ],
+  "notes": [],
+  "variations": [],
+  "photos": [],
+  "metadata": {
+    "imported": "2026-11-01",
+    "revised": null,
+    "source_file": "archive/fiberwoman/cauliflower-peas-and-potatoes-in-sauce.html",
+    "source_sha256": "7d488046a8c6f09598ca5964c8ddccb4a046b7b06c081bedfec4003ea3842b10",
+    "original_heading": "Cauliflower, Peas, and Potatoes in Red Sauce",
+    "origin": "live website"
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "schema_version": 1,
+  "slug": "sausage-squash-and-posole-soup",
+  "title": "Sausage, Squash, and Posole Soup",
+  "subtitle": null,
+  "categories": [
+    "Soups",
+    "Meat"
+  ],
+  "tags": [],
+  "source_url": "https://fiberwoman.com/recipes/sausage-squash-and-posole-soup.html",
+  "attribution": [
+    {
+      "type": "text",
+      "text": "From a recipe presented on Emeril Live, but with some changes. See Emeril's"
+    },
+    {
+      "type": "link",
+      "text": "Butternut Squash, Sausage, and Wild Rice Soup",
+      "href": "http://www.emerils.com/recipedb/recipepull.php?id=3605"
+    },
+    {
+      "type": "text",
+      "text": "."
+    }
+  ],
+  "servings": null,
+  "blocks": [
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "1 butternut squash"
+        },
+        {
+          "type": "instruction",
+          "text": ", cut in half, seeds and strings removed"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "2 tablespoons olive oil"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "Rub the cut side of the squash with the olive oil. Put on a baking pan with the cut side up. Roast at 400F for an hour or an hour and a quarter. Let cool."
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "2 links of uncooked hot Italian sausage (about 1/3 pound)"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "Squeeze the sausage out of its skin onto a 8 quart pot. Cook the sausage on medium for about 5 minutes, breaking it up into small pieces, and letting it brown a little."
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "2 or 3 cloves of garlic"
+        },
+        {
+          "type": "instruction",
+          "text": ", minced or put through a garlic press"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "1 large spanish onion"
+        },
+        {
+          "type": "instruction",
+          "text": ", chopped (about 2 cups)"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "Fry for about 5 minutes, so that the onions are softened, and beginning to turn golden"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "1/2 cup wild rice"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "1/2 cup brown rice"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "1 can of posole (12 oz)"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "7 1/2 cups of low sodium chicken broth"
+        },
+        {
+          "type": "instruction",
+          "text": "(a big can and a little can)"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "Add the rice, posole, and chicken broth, bring to a boil, then turn down to a simmer."
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "Scoop the squash pulp out of the skin, mash it a little with a spoon, and add it to the soup. Simmer for an hour."
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "1/2 cup buttermilk"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "3 tablespoons of chopped fresh sage"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "1/2 teaspoons freshly ground black pepper"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "1 teaspoon salt"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "Add the buttermilk, sage, pepper, salt. Simmer for another hour. Add more broth if the soup gets too thick."
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "1/4 teaspoon salt"
+        },
+        {
+          "type": "instruction",
+          "text": "Taste the soup, and add a little more salt, if needed."
+        }
+      ]
+    }
+  ],
+  "notes": [],
+  "variations": [],
+  "photos": [],
+  "metadata": {
+    "imported": "2026-11-01",
+    "revised": null,
+    "source_file": "archive/fiberwoman/sausage-squash-and-posole-soup.html",
+    "source_sha256": "e6ec0b6fd813d6ba3d852096709046e46ac43b8b3d82d523a20e625e006b2658",
+    "original_heading": "Sausage, Squash, and Posole Soup",
+    "origin": "live website"
+  }
+}

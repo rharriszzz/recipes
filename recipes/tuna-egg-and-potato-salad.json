@@ -1,0 +1,166 @@
+{
+  "schema_version": 1,
+  "slug": "tuna-egg-and-potato-salad",
+  "title": "Tuna, Egg, and Potato Salad",
+  "subtitle": null,
+  "categories": [
+    "Seafood",
+    "Salads",
+    "Spanish"
+  ],
+  "tags": [],
+  "source_url": "https://fiberwoman.com/recipes/tuna-egg-and-potato-salad.html",
+  "attribution": [
+    {
+      "type": "text",
+      "text": "From \"Foods & Wines of Spain\", by Penelope Casas."
+    }
+  ],
+  "servings": null,
+  "blocks": [
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "7 ounce can of tuna"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "1 1/2 teaspoons vinegar"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "1 1/2 teaspoons minced onion"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "1 tablespoon minced parsley"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "1 teaspoon capers"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "mix"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "3 medium potatos"
+        },
+        {
+          "type": "instruction",
+          "text": ", peeled, cubed, boiled in salted water for 20 minutes, and drained"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "1 hardboiled egg"
+        },
+        {
+          "type": "instruction",
+          "text": ", finely chopped"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "add the potatoes and chopped egg and blend gently"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "salt"
+        },
+        {
+          "type": "instruction",
+          "text": "to taste"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "3/4 cup mayonnaise"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "gently fold in the mayonnaise"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "1 pimento"
+        },
+        {
+          "type": "instruction",
+          "text": ", cut in strips"
+        }
+      ]
+    }
+  ],
+  "notes": [],
+  "variations": [],
+  "photos": [],
+  "metadata": {
+    "imported": "2026-11-01",
+    "revised": null,
+    "source_file": "archive/fiberwoman/tuna-egg-and-potato-salad.html",
+    "source_sha256": "27565db6a2242e56360ccdd194adeeba80ee86324c10ab71684cec5c8217b6be",
+    "original_heading": "Potatoes in Green Sauce",
+    "origin": "live website"
+  }
+}

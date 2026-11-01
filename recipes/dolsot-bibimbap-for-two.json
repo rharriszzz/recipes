@@ -1,0 +1,838 @@
+{
+  "schema_version": 1,
+  "slug": "dolsot-bibimbap-for-two",
+  "title": "Dolsot Bibimbap for Two",
+  "subtitle": null,
+  "categories": [
+    "Korean",
+    "Meat"
+  ],
+  "tags": [],
+  "source_url": "https://chatgpt.com/library/file/libfile_57991992614481918a550c99cfa2441e",
+  "attribution": [
+    {
+      "type": "text",
+      "text": "Adapted from Seonkyoung Longest's Dolsot Bibimbap and My Korean Kitchen's Dolsot Bibimbap and Daikon Radish Salad."
+    }
+  ],
+  "servings": "2 servings",
+  "blocks": [
+    {
+      "type": "section",
+      "text": "Bibimbap Sauce"
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "1 Tbsp gochujang"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "1 1/2 tsp toasted sesame oil"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "1 1/2 tsp sugar"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "1 1/2 tsp water"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "1 1/2 tsp toasted sesame seeds"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "1/2 tsp rice vinegar or apple-cider vinegar"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "1/2 tsp minced garlic"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "Mix until smooth. Cover and refrigerate. This can be made several days ahead."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "text": "Daikon Radish Salad (Musaengchae)"
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "8 oz daikon radish, peeled and cut into thin matchsticks"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "Put the radish in a mixing bowl."
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "1 tsp gochugaru"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "1 tsp Korean fish sauce"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "1 tsp sugar"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "1/2 tsp minced garlic"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "1/4 tsp fine salt"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "Add to the radish and mix well."
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "2 tsp finely chopped green onion (optional)"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "Mix in. Refrigerate at least 30 minutes. This makes more than you need for two bibimbap bowls; keep the extra as banchan."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "text": "Spinach"
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "5 oz fresh spinach"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "Blanch in boiling water for about 30 seconds. Drain, cool under cold water, squeeze gently, and cut into manageable lengths."
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "1 tsp toasted sesame oil"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "1 tsp finely chopped green onion"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "1/2 tsp minced garlic"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "1/2 tsp toasted sesame seeds"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "small pinch salt"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "Mix with the spinach. Cover and refrigerate."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "text": "Bean Sprouts"
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "4 oz soybean sprouts or mung-bean sprouts"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "Cook until just tender, then drain and cool. Soybean sprouts take longer than mung-bean sprouts."
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "1 tsp toasted sesame oil"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "1 tsp finely chopped green onion"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "1/2 tsp minced garlic"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "1/2 tsp toasted sesame seeds"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "small pinch salt"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "Mix with the sprouts. Cover and refrigerate."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "text": "Sauteed Vegetables"
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "1 tsp neutral cooking oil"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "2 oz carrot, julienned"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "small pinch salt"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "Saute over medium-high heat for 2 to 3 minutes. Remove to a container."
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "1 tsp neutral cooking oil"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "2 oz zucchini, julienned"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "small pinch salt"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "In the same skillet, saute for 2 to 3 minutes. Remove to a container."
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "1 tsp neutral cooking oil"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "2 oz fresh shiitake mushrooms, thinly sliced"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "small pinch salt"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "In the same skillet, saute for 4 to 5 minutes. Remove to a container. Refrigerate all three vegetables."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "text": "Beef"
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "6 oz ribeye, sirloin, or New York strip, thinly sliced"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "1 Tbsp soy sauce"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "1 1/2 tsp mirin"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "1 1/2 tsp toasted sesame oil"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "1 Tbsp sugar"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "black pepper"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "Mix well. Cover and refrigerate for at least 20 minutes; it may be prepared the day before."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "text": "Kimchi"
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "2 oz prepared napa-cabbage kimchi"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "Cut into bite-size pieces if necessary. Refrigerate."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "text": "Rice and Stone Pots"
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "1 cup uncooked Korean or Japanese short-grain white rice"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "water for cooking"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "Cook the rice. You need about 2 1/2 cups cooked rice for the two bowls."
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "2 stone dolsot bowls"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "Put the empty dolsots in a cold oven. Set the oven to 425 F. When the oven reaches temperature, heat the bowls for another 10 to 15 minutes."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "text": "Beef and Eggs"
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "marinated beef"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "Cook in a skillet over medium-high to high heat for about 4 to 6 minutes, until cooked through and lightly browned. Set aside."
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "1 tsp neutral cooking oil"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "2 large eggs"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "Fry the eggs sunny-side-up, or to your preference. Set aside briefly."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "text": "ASSEMBLE"
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "about 1 Tbsp toasted sesame oil, divided"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "Carefully remove the hot dolsots from the oven. Brush the bottom and lower sides of each bowl with sesame oil."
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "about 1 1/4 cups hot cooked rice per bowl"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "Add the rice and press it gently against the bottom and lower sides."
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "sauteed carrot"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "sauteed zucchini"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "sauteed shiitake mushrooms"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "spinach"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "bean sprouts"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "daikon radish salad"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "kimchi"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "cooked beef"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "Arrange small portions of the toppings over the rice. You do not have to use all of every topping."
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "2 fried eggs"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "Put one egg on each bowl."
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "the two assembled dolsots"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "Return to the 425 F oven for about 8 to 12 minutes, until very hot and the rice is beginning to crisp. If you want a darker crust next time, increase the final oven time a little."
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "prepared bibimbap sauce"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "toasted sesame seeds, if desired"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "Set each dolsot on a substantial trivet. Add sauce to taste, sprinkle with sesame seeds if desired, mix thoroughly, and serve."
+        }
+      ]
+    }
+  ],
+  "notes": [],
+  "variations": [],
+  "photos": [],
+  "metadata": {
+    "imported": "2026-11-01",
+    "revised": null,
+    "source_file": "archive/chatgpt/dolsot_bibimbap_2_servings.html",
+    "source_sha256": "46f5a86f061dc986d4834bb2b0a7d4a23398a627b5a951af983ac095c125b40b",
+    "origin": "ChatGPT source artifact",
+    "source_filename": "dolsot_bibimbap_2_servings.html",
+    "version": "2026-08-22 final recovered HTML; oven-heated bowls; no fernbrake or bellflower root"
+  }
+}

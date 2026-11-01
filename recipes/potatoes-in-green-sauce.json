@@ -1,0 +1,166 @@
+{
+  "schema_version": 1,
+  "slug": "potatoes-in-green-sauce",
+  "title": "Potatoes in Green Sauce",
+  "subtitle": null,
+  "categories": [
+    "Vegetables",
+    "Spanish"
+  ],
+  "tags": [],
+  "source_url": "https://fiberwoman.com/recipes/potatoes-in-green-sauce.html",
+  "attribution": [
+    {
+      "type": "text",
+      "text": "From \"Foods & Wines of Spain\", by Penelope Casas."
+    }
+  ],
+  "servings": null,
+  "blocks": [
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "3 tablespoons olive oil"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "1 clove garlic"
+        },
+        {
+          "type": "instruction",
+          "text": ", peeled"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "fry the garlic clove until it is lightly browned"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "remove the garlic, mash it, and reserve"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "1 tablespoon minced onion"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "fry the onion until it is soft"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "4 medium all-purpose potatoes"
+        },
+        {
+          "type": "instruction",
+          "text": ", peeled and cut in 1/8 inch slices"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "fry the potato slices for a while"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "3/4 cup chicken broth or water"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "1/2 to 1 teaspoon salt"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "freshly ground pepper"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "3 tablespoons minced parsley"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "combine the ingredients, including the reserved garlic, cover, and cook 10 minutes"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "turn the potatoes, cover, and cook 10 more minutes, or until the potatoes are tender"
+        }
+      ]
+    }
+  ],
+  "notes": [],
+  "variations": [],
+  "photos": [],
+  "metadata": {
+    "imported": "2026-11-01",
+    "revised": null,
+    "source_file": "archive/fiberwoman/potatoes-in-green-sauce.html",
+    "source_sha256": "84e18318e262341d1d718ba8bca6de4d6ba6d19af3974f6d9f834d61a19716e8",
+    "original_heading": "Potatoes in Green Sauce",
+    "origin": "live website"
+  }
+}

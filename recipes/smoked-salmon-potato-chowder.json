@@ -1,0 +1,204 @@
+{
+  "schema_version": 1,
+  "slug": "smoked-salmon-potato-chowder",
+  "title": "Smoked Salmon Potato Chowder",
+  "subtitle": null,
+  "categories": [
+    "Soups",
+    "Seafood"
+  ],
+  "tags": [],
+  "source_url": "https://chatgpt.com/library/file/libfile_523dbb94417c819185b239da816049fd",
+  "attribution": [
+    {
+      "type": "text",
+      "text": "Developed with ChatGPT."
+    }
+  ],
+  "servings": "2 or 3 servings",
+  "blocks": [
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "2 tablespoons butter"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "Melt in a soup pot over medium-low heat."
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "6 oz onion, diced"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "3-4 oz celery, diced"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "Add and cook 8-10 minutes, stirring occasionally, until softened but not browned."
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "15 oz russet potato, diced into 1/2-inch pieces"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "2 cups water"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "3/4 teaspoon Better Than Bouillon vegetable base"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "Add, stir well, bring to a gentle simmer, and cook 15-20 minutes, until the potato is soft."
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "Mash about one-third to one-half of the potato in the pot, leaving the rest chunky."
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "1 cup half-and-half"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "1/2 cup milk"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "1/4 teaspoon black pepper"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "1/4 teaspoon dried thyme or marjoram"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "Lower the heat, add, and warm gently 3-5 minutes. Do not boil hard after adding dairy."
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "8 oz fully cooked smoked salmon, broken into bite-size pieces"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "Add at the end and warm gently 2-3 minutes, just until heated through."
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "ingredient",
+          "text": "Salt"
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "parts": [
+        {
+          "type": "instruction",
+          "text": "Taste first, then add only if needed. If the soup is too thick, add a splash of milk or half-and-half."
+        }
+      ]
+    }
+  ],
+  "notes": [],
+  "variations": [],
+  "photos": [],
+  "metadata": {
+    "imported": "2026-11-01",
+    "revised": null,
+    "source_file": "archive/chatgpt/smoked_salmon_potato_chowder_final.pdf",
+    "source_sha256": "c921e1efc32cd0ff8f59bd0c9db480b920c44ad2cc23f54052ee3aab13ead3c1",
+    "origin": "ChatGPT source artifact",
+    "source_filename": "smoked_salmon_potato_chowder_final.pdf",
+    "version": "Final PDF artifact, 2026-05-17; earlier and revised PDFs remain superseded"
+  }
+}
