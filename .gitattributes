@@ -1,0 +1,3 @@
+# Preserve archival bytes, including legacy whitespace and PDF cross-reference tables.
+archive/** -whitespace
+*.pdf binary

@@ -58,6 +58,8 @@ The GitHub Actions workflow deploys only after the checks pass. Review the run i
 
 Read [the migration report](docs/migration-report.md), [inventory](docs/migration-inventory.json), [content audit](docs/content-audit.json), and [remaining sources](docs/missing-sources.md).
 
+The CSS is kept formatted for hand editing; tests use fixed fixtures so adding recipes does not require changing test counts. Archival files retain their original bytes and whitespace.
+
 The migration scripts are deliberately separate from the normal build. A production build never fetches the old site or private chats. `scripts/archive_sources.py` recrawls the original recipe directory (including commented-out links), preserving HTML/CSS and recording HTTP failures. It also copies the two known local recipe backups when available on this Mac. Review archival changes before committing them. Do not replace an older archive without preserving its version if the live site has changed.
 
 `scripts/import_legacy.py` converts the known original HTML files. It refuses to overwrite recipe files unless `--overwrite` is explicitly given. `scripts/import_extra.py` records the conversion of the first recovered ChatGPT artifacts and also refuses to overwrite existing files. These are historical import tools, not commands to run each time you edit a recipe. Review every import against its source and extend validation for a new source format.
