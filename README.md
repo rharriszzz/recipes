@@ -6,7 +6,7 @@ Ingredients and instructions stay together in cooking order. The original ivory 
 
 ## Build, check, and preview
 
-Requires Python 3.10+; Node 20+ is used only for the interaction tests. No package installation is needed.
+Requires Python 3.10+; Node 20+ is used for the interaction tests and optional screenshot tool. Building and testing the website requires no package installation.
 
 ```sh
 python3 scripts/build.py
@@ -18,6 +18,24 @@ python3 scripts/preview.py
 Open **http://127.0.0.1:8000/recipes/**. The preview deliberately keeps the production `/recipes/` path. Stop it with Ctrl-C. Rebuild after editing source files, then refresh the browser. `_site/` is generated and ignored by Git.
 
 For hosting at the domain root instead, pass `--base-path /` to both build and validation.
+
+## Homepage project-card screenshot
+
+[`images/homepage-card.png`](images/homepage-card.png) is an actual homepage screenshot used by the [central project directory](https://rharriszzz.github.io/). Refresh it whenever the homepage recipe list or layout changes.
+
+To regenerate it from this checkout (Python 3.10+ and Node 20+):
+
+```sh
+npm ci
+npx playwright install chromium
+npm run capture:homepage-card
+```
+
+On Linux, use `npx playwright install --with-deps chromium` if browser system libraries are missing. Playwright is only a development dependency for this optional command; the website remains dependency-free.
+
+The script rebuilds and previews the current checkout, then opens `/recipes/` in Chromium at 1280 × 900 and 2× pixel density. After page load and font readiness, it measures text in `main.simple-index` and captures the heading, introduction, and complete recipe list with a 16-pixel inset. This excludes browser chrome, outer margins, and the empty right side. The crop and capture height follow the list as it grows. The browser and preview server close automatically.
+
+Review the regenerated PNG before committing it together with any homepage changes. The directory references this file directly from the Recipes repository; it needs no separate image copy.
 
 ## Repository structure
 
