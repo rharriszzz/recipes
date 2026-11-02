@@ -37,6 +37,10 @@ The script rebuilds and previews the current checkout, then opens `/recipes/` in
 
 Review the regenerated PNG before committing it together with any homepage changes. The directory references this file directly from the Recipes repository; it needs no separate image copy.
 
+See the [capture, review, and publishing checklist](docs/project-card-screenshot.md)
+for the complete workflow, including source-image verification and the order of
+updates across both repositories.
+
 ## Repository structure
 
 | Path | Purpose |
@@ -61,11 +65,14 @@ See [the content guide](docs/content-guide.md). Copy a recipe JSON file, choose 
 
 Preserve the original document under `archive/`, record its URL and filename, and set its SHA-256 hash. Photos belong under `static/images/` with meaningful alt text. Only use relevant recovered or owner-supplied photographs.
 
+If the homepage list or layout changes, regenerate and review the
+[homepage card screenshot](docs/project-card-screenshot.md) before committing.
+
 ```sh
 python3 scripts/build.py
 python3 scripts/validate.py
 node tests/search.test.cjs
-git add recipes static scripts docs archive
+git add recipes static scripts docs archive images
 git commit -m "Add or revise a recipe"
 git push origin main
 ```
