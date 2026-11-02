@@ -109,7 +109,8 @@ def validate(base='/recipes/'):
     assert set(displayed)==expected_urls, 'Homepage missing recipes or contains duplicate links'
     archived=(ROOT/'archive/fiberwoman/recipes.html').read_text()
     old_active=re.sub(r'<!--.*?-->', '', archived, flags=re.S)
-    old_slugs=re.findall(r'<a\\s+href="([^"]+)\\.html"', old_active, flags=re.I)
+    old_slugs=re.findall(r'<a\s+href="([^"]+)\.html"', old_active, flags=re.I)
+    assert len(old_slugs)==9, 'Original active index should contain nine links'
     assert displayed[:len(old_slugs)]==[base+slug+'/' for slug in old_slugs], 'Original link order changed'
     # Independent discovery coverage against links in the archived index, including comments.
     index=(ROOT/'archive/fiberwoman/recipes.html').read_text()
