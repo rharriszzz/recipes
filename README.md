@@ -25,17 +25,17 @@ For hosting at the domain root instead, pass `--base-path /` to both build and v
 | --- | --- |
 | `recipes/*.json` | One editable source file per recipe |
 | `scripts/build.py` | Shared page templates and static generator |
-| `static/style.css`, `static/site.js` | Responsive/print design and title/category filters |
+| `static/style.css`, `static/site.js` | Simple index design, recipe formatting, print and contrast controls |
 | `static/` | Local images, favicon, and other public assets |
 | `archive/fiberwoman/` | Unmodified downloaded recipe HTML and original CSS |
 | `archive/local/` | Recipe-only copies from the old local website backups |
 | `archive/chatgpt/` | Recovered recipe artifacts and explicitly identified transcriptions |
 | `archive/retrieval.json` | Original-site crawl URLs, statuses, links, and SHA-256 hashes |
 | `docs/` | Migration inventory, audit, version decisions, and missing-source report |
-| `tests/search.test.cjs` | Tests of the actual browser script with a DOM fixture |
+| `tests/search.test.cjs` | Regression tests for recipe-page contrast/print behavior (historical filename) |
 | `.github/workflows/pages.yml` | Build, validate, test, and deploy to Pages |
 
-The generated site is fully static. It uses no external fonts, libraries, analytics, accounts, or runtime APIs. Browsing and recipe content work without JavaScript. Search, category filtering, the contrast preference, and the print button are progressive enhancements; the browser's own Print command always works.
+The generated site is fully static. Its homepage follows the original fiberwoman.com/recipes/recipes.html: a heading, a short introduction, and a compact single-column list of recipe titles, now in larger type. The nine originally active links retain their original order; later and recovered recipes follow, all visible without search or filters. No JavaScript is needed on the homepage. Recipe pages retain their contrasting-color preference and optional print button, and the browser's own Print command always works. No external fonts, libraries, analytics, accounts, or runtime APIs are used.
 
 ## Add or edit a recipe
 

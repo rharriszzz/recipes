@@ -48,7 +48,7 @@ def page(title,body,base,description,recipe=False):
 </body></html>'''
 
 def recipe_page(r,base):
-    tags=''.join(f'<a class="tag" href="{base}?category={E(c)}">{E(c)}</a>' for c in r['categories'])
+    tags=''.join(f'<span class="tag">{E(c)}</span>' for c in r['categories'])
     intro=f'<p class="attribution">{inline(r["attribution"])}</p>' if r['attribution'] else ''
     subtitle=f'<p class="subtitle">{E(r["subtitle"])}</p>' if r.get('subtitle') else ''
     servings=f'<p class="servings">{E(r["servings"])}</p>' if r.get('servings') and r['servings'] not in inline(r['attribution']) else ''
@@ -65,26 +65,28 @@ def recipe_page(r,base):
     return page(r['title'],body,base,f'{r["title"]}. Ingredients and instructions in the order you use them.',True)
 
 def index(recipes,base):
-    categories=sorted({c for r in recipes for c in r['categories']})
-    filters=''.join(f'<button type="button" class="filter" data-category="{E(c)}" aria-pressed="false">{E(c)}</button>' for c in categories)
-    letters=sorted({r['title'][0].upper() for r in recipes})
-    alphabet=''.join(f'<a href="#letter-{c}">{c}</a>' for c in letters)
-    groups=[]
-    for letter in letters:
-        cards=[]
-        for r in recipes:
-            if r['title'][0].upper()!=letter: continue
-            title=E(r['title']); cats=E(' · '.join(r['categories']))
-            search=E(r['title'].casefold())
-            cards.append(f'''<li class="recipe-card" data-title="{search}" data-categories="{E(json.dumps(r['categories']))}"><a href="{base}{r['slug']}/"><span class="card-title">{title}</span><span class="card-meta">{cats}</span><span class="card-arrow" aria-hidden="true">↗</span></a></li>''')
-        groups.append(f'<section class="letter-group" id="letter-{letter}" aria-labelledby="heading-{letter}"><h2 id="heading-{letter}">{letter}</h2><ul class="recipe-list">{"".join(cards)}</ul></section>')
-    body=f'''<main id="main" class="index-main"><div class="intro"><p class="eyebrow">A collection of favorites</p><h1>Good food,<br>kept simple.</h1><p class="intro-text">Our recipes, gathered in one place. Ingredients and instructions together, just as you need them.</p><span class="collection-count">{len(recipes)} recipes</span></div>
-<section class="browse" aria-label="Find a recipe"><div class="search-wrap" hidden><label for="search">Find a recipe</label><div class="search-field"><span aria-hidden="true">⌕</span><input id="search" type="search" placeholder="Search recipe titles…" autocomplete="off" aria-controls="recipe-results"><button type="button" id="clear-search" hidden>Clear</button></div></div>
-<div class="filters" hidden aria-label="Filter by category"><button type="button" class="filter" data-category="" aria-pressed="true">All recipes</button>{filters}</div>
-<div class="browse-heading"><p id="result-count" role="status" aria-live="polite">{len(recipes)} recipes · A–Z</p><nav class="alphabet" aria-label="Jump to a letter">{alphabet}</nav></div>
-<div id="recipe-results">{''.join(groups)}</div><div id="empty-state" hidden><h2>No recipes found</h2><p>Try a shorter title or choose another category.</p><button type="button" id="reset-filters">Show all recipes</button></div>
-<noscript><p>Browse every recipe alphabetically above. Title search and category filters are available when JavaScript is enabled.</p></noscript></section></main>'''
-    return page('Home',body,base,'Family recipes with ingredients and instructions together, in order of use. Browse alphabetically, search titles, and print recipes.')
+    # Keep the active recipes in the order of the original fiberwoman.com list.
+    # Its /recipes/index.html was only a redirect to recipes.html.
+    archived=(ROOT/'archive/fiberwoman/recipes.html').read_text()
+    active_index=re.sub(r'<!--.*?-->', '', archived, flags=re.S)
+    original_slugs=re.findall(r'<a\s+href="([^"]+)\.html"', active_index, flags=re.I)
+    by_slug={r['slug']:r for r in recipes}
+    if len(original_slugs)!=len(set(original_slugs)) or any(slug not in by_slug for slug in original_slugs):
+        raise ValueError('Original recipe index differs from imported recipes')
+    original_set=set(original_slugs)
+    ordered=[by_slug[slug] for slug in original_slugs]
+    ordered.extend(r for r in recipes if r['slug'] not in original_set)
+    links='\n'.join(f'<li><a href="{E(base)}{E(r["slug"])}/">{E(r["title"])}</a></li>' for r in ordered)
+    return f'''<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Recipes</title><meta name="description" content="Here are some recipes that we like.">
+<meta name="theme-color" content="#fffff0"><link rel="icon" href="{E(base)}favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="{E(base)}style.css"></head>
+<body class="index-page"><main id="main" class="simple-index">
+<h1>Recipes</h1><p>Here are some recipes that we like.</p>
+<nav aria-label="Recipes"><ul class="simple-recipe-list">
+{links}
+</ul></nav></main></body></html>'''
 
 def build(base='/recipes/'):
     if not re.fullmatch(r'/[A-Za-z0-9_/-]*/',base) and base!='/': raise ValueError('Use an absolute base path ending in /')

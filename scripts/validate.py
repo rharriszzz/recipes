@@ -99,6 +99,19 @@ def validate(base='/recipes/'):
             rendered_steps=[compact(part['text']) for b in r['blocks'] if b['type']=='line' for part in b['parts'] if part['type']=='instruction']
             assert original_steps==rendered_steps, 'Fish instruction order changed'
         recipe_stats.append({'slug':slug,'ingredient_fragments':ingredients,'instruction_fragments':instructions,'source':str(source.relative_to(ROOT))})
+    # The original simple link list is preserved, with every new recipe appended.
+    home=(ROOT/'_site'/'index.html').read_text()
+    assert home==(ROOT/'_site'/'recipes.html').read_text(), 'Home and recipes.html differ'
+    assert 'class="simple-recipe-list"' in home and '<input' not in home, 'Homepage must be a simple link list without search'
+    displayed=re.findall(r'<li><a href="([^"]+)">',home)
+    assert len(displayed)==len(recipes), f'Expected one link per recipe, got {len(displayed)}'
+    expected_urls={base+r['slug']+'/' for r in recipes}
+    assert set(displayed)==expected_urls, 'Homepage missing recipes or contains duplicate links'
+    archived=(ROOT/'archive/fiberwoman/recipes.html').read_text()
+    old_active=re.sub(r'<!--.*?-->', '', archived, flags=re.S)
+    old_slugs=re.findall(r'<a\s+href="([^"]+)\.html"', old_active, flags=re.I)
+    assert len(old_slugs)==9, 'Original active index should contain nine links'
+    assert displayed[:len(old_slugs)]==[base+slug+'/' for slug in old_slugs], 'Original link order changed'
     # Independent discovery coverage against links in the archived index, including comments.
     index=(ROOT/'archive/fiberwoman/recipes.html').read_text()
     discovered=set(re.findall(r'href="([^"]+\.html)"',index)); assert discovered<=sources,f'Missing originals: {discovered-sources}'
